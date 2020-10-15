@@ -1,2 +1,3 @@
 # php1dz
-homework 1
+homework/practice
+
